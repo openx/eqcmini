@@ -8,7 +8,7 @@ setup to be pulled via rebar3 dependency as follows
       { test, [
           { deps, [
               { eqc,
-                { git, "git@github.corp.openx.com:thirdparty/eqcmini.git",
+                { git, "git@github.com:openx/eqcmini.git",
                   {tag, "2.01.0"}
                 }
               }
